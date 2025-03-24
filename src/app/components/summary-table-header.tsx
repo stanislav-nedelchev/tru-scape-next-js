@@ -17,7 +17,7 @@ export default function SummaryTableHeader({
         `text-${align}`,
         '[&:nth-child(3n+1)]:text-white [&:nth-child(3n+1)]:bg-gray-900',
         '[&:nth-child(3n+2)]:text-gray-900 [&:nth-child(3n+2)]:bg-purple-200',
-        '[&:nth-child(3n+3)]:text-gray-900 [&:nth-child(3n+3)]:bg-lime-200'
+        '[&:nth-child(3n+3)]:text-gray-900 [&:nth-child(3n+3)]:bg-lime-200',
       )}
     >
       {children}

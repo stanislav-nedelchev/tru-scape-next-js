@@ -14,7 +14,7 @@ export default function SummaryTableCell({
     <td
       className={clsx(
         'py-2 px-5 text-sm border-gray-100 border-r first-of-type:border-l',
-        `text-${align}`
+        `text-${align}`,
       )}
     >
       {children}
