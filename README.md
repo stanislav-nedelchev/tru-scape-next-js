@@ -1,12 +1,10 @@
-# 📌 CRM for Vendors
+# 📌 TruScape
 
 ## 🚀 Overview
 
-CRM for Vendors is a CRM-like web application designed to optimize vendor information management. The application includes routing and features such as adding companies and promotions.
+TruScape is a CRM-like web application designed to optimize vendor information management. The application includes routing and features such as adding companies and promotions.
 
-**📊 Live Demo Dashboard: [View Dashboard](https://crm-seven-sigma.vercel.app/dashboard)**
-
-**🏢 Live Demo Companies Page: [View Companies](https://crm-seven-sigma.vercel.app/companies)**
+**📊 Live Demo Dashboard: [View Dashboard](https://tru-scape-next-js.vercel.app/dashboard)**
 
 ## 🖼️ Preview
 
@@ -38,27 +36,4 @@ CRM for Vendors is a CRM-like web application designed to optimize vendor inform
 - **Formik** – Form Management
 - **React Query** – State & Data Fetching
 - **Vercel** – Deployment
-- **MockAPI** – Backend Simulation
-
-## 📦 Installation & Setup
-
-#### Clone the repository
-
-git clone https://github.com/your-repo/crm.git<br>
-cd crm
-
-#### Install dependencies
-
-npm install
-
-#### Run the development server
-
-npm run dev
-
-#### Build the project for production
-
-npm run build
-
-#### Start the production build
-
-npm run start
+ **MockAPI** – Backend Simulation
